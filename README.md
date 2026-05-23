@@ -13,32 +13,46 @@
 
 ```mermaid
 timeline
-    title Growth Timeline
+    title 2023~2024
     2023.03 ~ 2023.06
-        : UMC CUK 4기
+        : <UMC CUK 4기>
         : Spring 백엔드 파트 스터디
     2024.01 ~ 2024.06
-        : ALCUK 8기
+        : <ALCUK 8기>
         : 알고리즘 소모임
         : 백준 골드 4 달성
     2024.09 ~ 2024.12
-        : GDGoC CUK 3기
+        : <GDGoC CUK 3기>
         : Spring + 보안 스터디
         : GGUM 해커톤 본선 진출
+```
+---
+
+```mermaid
+timeline
+    title 2025~2026
     2025.02 ~ 2025.06
-        : 학점연계인턴
+        : <학점연계인턴> (주)비욘드아이앤씨
         : K2 KOREA ERP 플랫폼 전환
+        : 전산팀 깃 가이드 문서화
         : 화면 40건 마이그레이션
-    2025.06 ~ 2025.07
-        : 부스트캠프 베이직
-        : CS 기초 (자료구조, 알고리즘, 상태머신)
-    2025.07 ~ 2025.08
-        : 부스트캠프 챌린지
-        : 소켓 통신, HTTP 서버, Git 구현
+        : SonarQube 리팩토링
+    2025.06 ~ 2025.08
+        : <네이버 부스트캠프> <br> 베이직 / 챌린지
+        : CS 기초 (자료구조, 알고리즘, 상태머신 등)
+        : CS 구현 (소켓 통신, HTTP 서버, Git 구현 등)
     2025.08 ~ 2026.02
-        : 부스트캠프 멤버십
-        : RTB 광고 플랫폼 백엔드 설계
-        : Redis 캐싱 아키텍처 / CI·CD / NCP 인프라
+        : <네이버 부스트캠프> <br> 멤버십
+        : BoostAD - 광고 플랫폼
+        : RTB 광고 플랫폼 백엔드 구현
+        : DB 마이그레이션 / Redis 아키텍처 설계
+        : CI·CD / NCP 인프라 구축
+    2026.03 ~ 진행 중
+        : <졸업 캡스톤> <br> Cathori
+        : 학교 공지 개인화 알림 앱
+        : 프로젝트 설계 및 문서화 
+        : React Native 개발
+        : NCP 인프라 구축
 ```
 
 ---
@@ -47,12 +61,10 @@ timeline
 
 #### Frontend
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433e38?style=flat-square)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 #### Backend
 
@@ -61,7 +73,6 @@ timeline
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) 
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white)
 
 #### Database / Cache
 
@@ -70,8 +81,7 @@ timeline
 
 #### Infra / DevOps
 
-![EC2](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) 
