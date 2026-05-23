@@ -84,18 +84,3 @@ timeline
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
 ---
-
-## 🧑‍💻 Contact
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:dominanthat@gmail.com) 
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white)](https://record06652.tistory.com/)
-
----
-
-## 🏅 Stats
-
-<div align="center"> 
-  <!-- 특수문자를 빼고, 뒤에 cache 버스터(&cache=true)를 추가했습니다 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tomass22&custom_title=tomass&show_icons=true&theme=tokyonight&cache=true" height="165" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomass22&layout=compact&theme=tokyonight&cache=true" height="165" /> 
-</div>
