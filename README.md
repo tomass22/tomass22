@@ -14,14 +14,14 @@
 ```mermaid
 timeline
     title 2023~2024
-    2023.03 ~ 2023.06
+    23.03 ~ 23.06
         : <UMC CUK 4기>
         : Spring 백엔드 파트 스터디
-    2024.01 ~ 2024.06
+    24.01 ~ 24.06
         : <ALCUK 8기>
         : 알고리즘 소모임
         : 백준 골드 4 달성
-    2024.09 ~ 2024.12
+    24.09 ~ 24.12
         : <GDGoC CUK 3기>
         : Spring + 보안 스터디
         : GGUM 해커톤 본선 진출
@@ -31,23 +31,23 @@ timeline
 ```mermaid
 timeline
     title 2025~2026
-    2025.02 ~ 2025.06
+    25.02 ~ 25.06
         : <학점연계인턴> (주)비욘드아이앤씨
         : K2 KOREA ERP 플랫폼 전환
         : 전산팀 깃 가이드 문서화
         : 화면 40건 마이그레이션
         : SonarQube 리팩토링
-    2025.06 ~ 2025.08
+    25.06 ~ 25.08
         : <네이버 부스트캠프> <br> 베이직 / 챌린지
         : CS 기초 (자료구조, 알고리즘, 상태머신 등)
         : CS 구현 (소켓 통신, HTTP 서버, Git 구현 등)
-    2025.08 ~ 2026.02
+    25.08 ~ 26.02
         : <네이버 부스트캠프> <br> 멤버십
         : BoostAD - 광고 플랫폼
         : RTB 광고 플랫폼 백엔드 구현
         : DB 마이그레이션 / Redis 아키텍처 설계
         : CI·CD / NCP 인프라 구축
-    2026.03 ~ 진행 중
+    26.03 ~ 진행 중
         : <졸업 캡스톤> <br> Cathori
         : 학교 공지 개인화 알림 앱
         : 프로젝트 설계 및 문서화 
@@ -82,15 +82,15 @@ timeline
 #### Infra / DevOps
 
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 ![Naver Cloud](https://img.shields.io/badge/Naver_Cloud-03C75A?style=flat-square&logo=naver&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) 
 
 #### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) 
 
 ---
