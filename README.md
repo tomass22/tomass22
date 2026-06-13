@@ -49,7 +49,7 @@ timeline
         : CI·CD / NCP 인프라 구축
     26.03 ~ 진행 중
         : <졸업 캡스톤> <br> Cathori
-        : 학교 공지 개인화 알림 앱
+        : 학교 공지 개인화 알림 앱 기획
         : 프로젝트 설계 및 문서화 
         : React Native 개발
         : NCP 인프라 구축
