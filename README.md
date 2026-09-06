@@ -1,8 +1,7 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rounded&color=746bf5&height=120&text=Hi%20I'm%20Tomass!&fontColor=000000&fontSize=50" /> </div>
-
 ---
 
 ## 🗓️ Growth Timeline
+- (**26.07 ~ Present**) - 뱅크샐러드 자동화 인턴
 - (**26.07 ~ Present**) - AUSG 10기
 - (**25.06 ~ 25.02**) - 네이버 부스트캠프 (챌린지/베이직/멤버십)
 - (**25.02 ~ 25.06**) - K2 KOREA ERP 전환 현장실습 
