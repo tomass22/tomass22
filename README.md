@@ -1,8 +1,8 @@
 ---
 
 ## 🗓️ Growth Timeline
-- (**26.07 ~ Present**) - 뱅크샐러드 Server Engineer Intern
 - (**26.07 ~ Present**) - AUSG 10기
+- (**26.07 ~ 26.10**) - 뱅크샐러드 Server Engineer Intern
 - (**25.06 ~ 25.02**) - 네이버 부스트캠프 (챌린지/베이직/멤버십)
 - (**25.02 ~ 25.06**) - K2 KOREA ERP 전환 현장실습 
 - (**24.09 ~ 24.12**) - GDGoC CUK 3기 (Java & Spring & 정보보안 스터디)
